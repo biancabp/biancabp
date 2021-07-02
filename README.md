@@ -5,6 +5,7 @@ I'm currently studying in the second year of the **Infoweb** technical course. R
 
 Always open to solving new challenges and learning from them. 
 
+
 ### Tools & Technologies:
 <p align="left">
 <img src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" height="auto" width="40"> 
@@ -13,6 +14,7 @@ Always open to solving new challenges and learning from them.
 <img src= "https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
 <img src= "https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
 </p>
+
 
 ### Studying:
 <p align="left">
