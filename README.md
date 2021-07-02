@@ -17,6 +17,6 @@ Always open to solving new challenges and learning from them.
 ### Studying:
 <p align="left">
 <img src= "https://img.icons8.com/color/452/javascript--v1.png" height="auto" width="40">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="auto" width="40">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="auto" width="60">
 <img src= "https://img.icons8.com/color/452/nodejs.png" height="auto" width="40">
 </p>
