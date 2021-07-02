@@ -1,7 +1,7 @@
 # Hello, world :)
-My name is **Bianca**. 👩‍💻
-I'm currently studying in the second year of the **Infoweb** technical course. Right now, I'm studying the **front-end** area. 💻
-Always open to solving new challenges and learning from them. 
+My name is **Bianca**. 👩‍💻<br>
+I'm currently studying in the second year of the **Infoweb** technical course. Right now, I'm studying the **front-end** area. 💻<br>
+Always open to solving new challenges and learning from them. <br>
 
 
 ### Tools & Technologies:
