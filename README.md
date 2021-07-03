@@ -6,7 +6,7 @@ Always open to solving new challenges and learning from them. <br>
 
 ### Tools & Technologies:
 <p align="left">
-<img src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" height="auto" width="50"> 
+<img src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" height="auto" width="45"> 
 <img src= "https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
 <img src= "https://img.icons8.com/color/452/sass.png" height="auto" width="40">
 <img src= "https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
