@@ -12,8 +12,7 @@ Always open to solving new challenges and learning from them. <br>
 <img src= "https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
 <img src= "https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
 </p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+
 
 ### Studying:
 <p align="left">
