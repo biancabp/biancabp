@@ -1,7 +1,7 @@
 <h1 align="left">Atuação</h1>
-- Acadêmica em Tecnologia da Informação na UFRN. Técnica do curso de Informática para Internet no IFRN.<br> 
-
 - Desenvolvedora Front-end especializada em desenvolvimento web com foco em acessibilidade e responsividade.<br>
+
+- Acadêmica em Tecnologia da Informação na UFRN. Técnica do curso de Informática para Internet no IFRN.<br> 
 
 - E-mail: <b>bianca.bezerra.713@ufrn.edu.br</b></p><br>
 
