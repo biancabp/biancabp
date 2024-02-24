@@ -16,7 +16,7 @@
 <p align="left">Em estudo:</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,ts" />
+    <img src="https://skillicons.dev/icons?i=ts,react,vue" />
   </a>
 </p><br>
 
