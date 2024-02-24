@@ -1,21 +1,35 @@
-# Hello, world👋
-My name is **Bianca**. 👩‍💻<br>
-I'm currently studying in the second year of the **Infoweb** technical course. Right now, I'm studying the **front-end** area. 💻<br>
-Always open to solving new challenges and learning from them. <br>
+<h1 align="left">Atuação</h1>
 
+- Desenvolvedora Front-end especializada em desenvolvimento web.<br>
 
-### Tools & Technologies:
+- E-mail: <b>bianca.bezerra.713@ufrn.edu.br</b></p><br>
+
+<h1 align="left">Linguagens e Ferramentas</h1><br>
+
+<p align="left">Front-end:</p>
 <p align="left">
-<img src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" height="auto" width="42"> 
-<img src= "https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
-<img src= "https://img.icons8.com/color/452/sass.png" height="auto" width="40">
-<img src= "https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
-<img src= "https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,sass,node,git" />
+  </a>
+</p><br>
 
-
-### Studying:
+<p align="left">Em estudo:</p>
 <p align="left">
-<img src= "https://img.icons8.com/color/452/javascript--v1.png" height="auto" width="40">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="auto" width="60">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,ts" />
+  </a>
+</p><br>
+
+<p align="left">Extras:</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,replit" />
+  </a>
+</p><br>
+
+<h1 align="left">Contato</h1><br>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/bianca-bezerra-pires/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bianca bezerra pires" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abobibis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bianca__bezerra" height="30" width="40" /></a>
 </p>
