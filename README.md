@@ -9,7 +9,7 @@
 <p align="left">Front-end:</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,sass,node,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,git,nodejs" />
   </a>
 </p><br>
 
