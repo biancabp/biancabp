@@ -2,13 +2,13 @@
 
 - Acadêmica em Tecnologia da Informação na UFRN. Técnica do curso de Informática para Internet no IFRN.<br>
 
-- Desenvolvedora Front-end especializada em desenvolvimento web com foco em acessibilidade e responsividade.<br> 
+- Desenvolvedora de Software especializada em desenvolvimento web com foco em acessibilidade e responsividade.<br> 
 
 - E-mail: <b>bianca.bezerra.713@ufrn.edu.br</b></p><br>
 
 <h1 align="left">Linguagens e Ferramentas</h1><br>
 
-<p align="left">Front-end:</p>
+<p align="left">Minha Experiência inclui:</p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,sass,js,nodejs" />
@@ -18,7 +18,7 @@
 <p align="left">Em estudo:</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,vue,react" />
+    <img src="https://skillicons.dev/icons?i=java, spring,vue" />
   </a>
 </p><br>
 
