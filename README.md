@@ -2,7 +2,7 @@
 
 ### 🎓 Sobre mim:
 📚 Cursando Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN).<br/>
-🎓 Técnico em Informática para Internet no Instituto Federal do Rio Grande do Norte (IFRN).<br/>
+🎓 Técnica em Informática para Internet no Instituto Federal do Rio Grande do Norte (IFRN).<br/>
   
 ### 🌱 O que estou fazendo:
 
