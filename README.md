@@ -8,17 +8,17 @@
 
 <h1 align="left">Linguagens e Ferramentas</h1><br>
 
-<p align="left">Minha Experiência inclui:</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,sass,js,nodejs" />
-  </a>
-</p><br>
-
 <p align="left">Em estudo:</p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,vue" />
+  </a>
+</p><br>
+
+<p align="left">Minha Experiência inclui:</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,sass,js,nodejs" />
   </a>
 </p><br>
 
