@@ -10,13 +10,6 @@
 🔄 Trabalhando em projetos de demostração de ativos e microsserviços com Java.<br/>
 🤝 Desenvolvo aplicações web com foco em acessibilidade e responsividade.<br/>
 
-### 📈 Minhas metas:
-
-🌟 Desenvolver softwares que façam a diferença. <br/>
-🌐 Me aprofundar na área para me especializar no que gosto. <br/>
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=biancabp&layout=compact&langs_count=6&theme=dracula)
-
 <hr>
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
